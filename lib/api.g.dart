@@ -50139,7 +50139,7 @@ const int OPENSSL_EC_NAMED_CURVE = 1;
 
 const int OPENSSL_ENGINES_DIR = 5;
 
-const String OPENSSL_FILE = '/tmp/ffigen temp dir FXOZSC/temp_for_macros.hpp';
+const String OPENSSL_FILE = '/tmp/ffigen temp dir KOGDFW/temp_for_macros.hpp';
 
 const String OPENSSL_FULL_VERSION_STR = '3.6.4';
 
